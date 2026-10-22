@@ -15,8 +15,9 @@ Demo account (regular user, no admin rights):
 
 ## Screenshots
 
-<!-- Add your screenshots to a /screenshots folder, then uncomment and edit: -->
-<!-- ![Swagger API documentation](screenshots/swagger.png) -->
+### API documentation (Swagger)
+![Swagger](Screenshots/swagger.jpeg)
+![Swagger – more endpoints](Screenshots/swagger1.jpeg)
 
 ## Features
 
